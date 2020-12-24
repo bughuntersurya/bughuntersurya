@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Ethical Hacking, Web App Security , Bug Bounty
+- 🔭 I’m currently working on Ethical Hacking, Web App Security and Bug Bounty
 - 🌱 I’m currently learning Mobile App Security
 - 👯 I’m looking to collaborate on Web App Security Project and Bug Bounty
 - 💬 Ask me about Ethical Hacking and Web App Security
