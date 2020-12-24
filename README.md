@@ -1,6 +1,4 @@
 ### Hi there 👋
-<!--
-**bughuntersurya/bughuntersurya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 - 🔭 I’m currently working on Ethical Hacking, Web App Security , Bug Bounty
 - 🌱 I’m currently learning Mobile App Security
