@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Mobile App Security
 - 👯 I’m looking to collaborate on Web App Security Project and Bug Bounty
 - 💬 Ask me about Ethical Hacking and Web App Security
-- 📫 How to reach me: offensivereporter@gmail.com
+- 📫 How to reach me: suryapentester@gmail.com
 - 😄 Website: https://bughuntersurya.netlify.app/
 - ⚡ Fun fact: Breaking Security is Fun
 
