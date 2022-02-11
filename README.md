@@ -6,6 +6,5 @@
 - 💬 Ask me about Application Security
 - 📫 How to reach me: suryapentester@gmail.com
 - 😄 Website: https://bughuntersurya.netlify.app/
-- ⚡ Fun fact: Breaking Security for fun and profit
 
 I would love to Collaborate on Application Pentesting Project and Bug Bounties for Sure ! ✨ 
